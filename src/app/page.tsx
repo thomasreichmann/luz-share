@@ -20,7 +20,7 @@ export default function Home() {
         </p>
       </main>
 
-      <footer className="text-center text-gray-500 italic text-sm p-8">
+      <footer className="text-center text-gray-500 italic text-sm p-8 flex flex-col gap-4 sm:gap-1">
         <p>
           &quot;A Share busca atingir altos níveis de satisfação dos residentes,
           dos seus pais e de seus colaboradores.&quot;
