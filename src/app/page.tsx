@@ -1,3 +1,5 @@
+"use client";
+
 import { calculateDaysSinceDate } from "@/utils/dateUtils";
 import Image from "next/image";
 import logo from "./logo-share-footer.svg";
