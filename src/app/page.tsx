@@ -6,7 +6,7 @@ import logo from "./logo-share-footer.svg";
 
 export default function Home() {
   const daysSinceOutage = calculateDaysSinceDate("2025-03-12");
-  const outagesThisYear = 14;
+  const outagesThisYear = 15;
 
   return (
     <div className="flex flex-col min-h-screen justify-around items-center pt-12">
