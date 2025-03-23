@@ -5,8 +5,8 @@ import Image from "next/image";
 import logo from "./logo-share-footer.svg";
 
 export default function Home() {
-  const daysSinceOutage = calculateDaysSinceDate("2025-03-12");
-  const outagesThisYear = 16;
+  const daysSinceOutage = calculateDaysSinceDate("2025-03-23");
+  const outagesThisYear = 17;
 
   return (
     <div className="flex flex-col min-h-screen justify-around items-center pt-12">
